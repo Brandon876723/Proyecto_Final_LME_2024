@@ -138,3 +138,36 @@ body{
     }
 
 }
+
+.inicio1{
+    padding: 100px 0px 0px 0px;
+}
+
+.inicio2{
+    padding: 2px 0px 10px 0px;
+}
+
+.inicio{
+    background-color: rgba(234, 19, 133, 0.5);
+    text-align: center;
+}
+
+.conocer{
+    background-color: rgb(137, 0, 241);
+    border: 0px;
+    padding: 0 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    font-size: 25px;
+    border-radius: 4px;
+    width: 170px;
+}
+
+.conocer:hover{
+    background-color: rgb(120, 0, 200);
+}
+
+.star{
+    text-align: center;
+    padding: 0px 0px 40px 0px;
+}
