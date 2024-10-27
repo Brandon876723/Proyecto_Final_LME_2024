@@ -218,3 +218,33 @@ body{
 .gallery-container .savage{
     height: 100%;
 }
+
+@media(max-width: 768px){
+    .history{
+        padding: 0px 20px;
+    }
+
+    .reinados{
+        padding: 0px 20px;
+    }
+    
+    .lado{
+        padding: 10px 0px 0px 0px;
+    }
+}
+
+footer{
+    padding: 30px;
+    background-color: rgb(92, 189, 189);
+    margin-top: -40px;
+}
+
+.char{
+    text-align: center;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: #0f0f0f;
+}
