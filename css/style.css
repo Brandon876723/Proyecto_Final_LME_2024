@@ -186,3 +186,9 @@ body{
     font-size: 18px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.reinados{
+    background-color: wheat;
+    text-align: center;
+    padding: 0px 20px;
+}
