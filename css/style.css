@@ -192,3 +192,29 @@ body{
     text-align: center;
     padding: 0px 20px;
 }
+
+.savage{
+    width: 100%;
+    object-fit: cover;
+}
+
+.gallery-container{
+    width: 90%;
+    max-width: 1000px;
+    margin: 40px auto;
+    display: grid;
+    grid-auto-rows: 500px;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 10px;
+    background-color: cornflowerblue;
+    padding: 4px 6px;
+}
+
+.lado{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px 0px;
+}
+
+.gallery-container .savage{
+    height: 100%;
+}
